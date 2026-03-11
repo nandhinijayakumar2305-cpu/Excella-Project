@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+    <ColumnMapping>
+        <Column match="s/n"          label="S/N"          />
+        <Column match="field name"   label="Field Name"   />
+        <Column match="de caption"   label="DE Caption"   />
+        <Column match="positive 1"   label="Positive 1"   />
+        <Column match="positive 2"   label="Positive 2"   />
+        <Column match="positive 3"   label="Positive 3"   />
+        <Column match="negative1"    label="Negative 1"   />
+    </ColumnMapping>
+</Configuration>
